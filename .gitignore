@@ -1,0 +1,11 @@
+# Node.js & React dependencies
+client/node_modules/
+backend/node_modules/
+
+# Build files
+client/build/
+backend/dist/
+
+# Environment variables
+client/.env
+backend/.env
