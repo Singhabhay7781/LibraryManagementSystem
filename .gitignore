@@ -1,6 +1,7 @@
 # Node.js & React dependencies
 client/node_modules/
 backend/node_modules/
+backend/keys.js
 
 # Build files
 client/build/
